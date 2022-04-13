@@ -1,0 +1,12 @@
+.description {
+    padding-top: 20px;
+}
+.paraDesc {
+    width: 600px;
+    height: 250px;
+    margin: 0 auto;
+    flex-wrap: wrap;
+    text-align: justify;
+    
+    
+}
