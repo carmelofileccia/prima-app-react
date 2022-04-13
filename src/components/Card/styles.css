@@ -1,0 +1,19 @@
+.divCard{
+    text-align: center;
+    display: inline-block;
+    width: 300px;
+    padding: 20px;
+    margin: 20px;
+    box-shadow: 0 2px 20px grey;
+    border-radius: 20px;
+}
+
+
+.paraCard {
+    width: auto;
+    height: auto;
+    margin: 0 auto;
+    text-align: justify;
+    
+    
+}
