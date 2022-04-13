@@ -2,6 +2,7 @@ import Header from "../src/components/Header/Header"
 import Description from "../src/components/Description/Description"
 import Form from "../src/components/Form/Form"
 import Card from "../src/components/Card/Card"
+import Footer from "../src/components/Footer/Footer"
 import './App.css';
 
 function App() {
@@ -19,6 +20,7 @@ function App() {
                 Phasellus id magna eu augue pulvinar imperdiet vel malesuada mi. 
                 Vestibulum eu vestibulum nulla."/>
       <Form/>
+      <Footer/>
     </div>
   );
 }

@@ -1,0 +1,22 @@
+.divForm{
+    display: inline-block;
+    justify-content: center;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 20px;
+}
+input, textarea {
+    display: flex;
+    text-align: center;
+    width: 500px;
+    line-height: 30px;
+    margin: 10px;
+
+}
+label, text area {
+    
+}
+.form {
+
+    line-height: 20px;
+}
